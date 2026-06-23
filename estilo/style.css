@@ -85,7 +85,7 @@ article > h1 {
 aside > h2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: -10px -10px 0px, 10px;
-    border-radius: 10px 10px 0px 10px;
+    border-radius: 10px 10px 10px 10px;
     background-color: #025940;
     color: white;
 }
